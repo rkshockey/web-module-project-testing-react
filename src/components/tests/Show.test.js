@@ -7,7 +7,7 @@ import Show from './../Show';
 const testShow = {
     image: null,
     name: 'Test Show',
-    description: 'this is a test1',
+    description: 'this is a test',
     seasons: [
         {
             id: 1,
